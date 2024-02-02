@@ -1,5 +1,5 @@
 compute using monte carlo...
 
-$$
-F(x) = \int_{a}^{x} f(t) \, dt
-$$
+\[
+\phi(G, \bar{G}) = \left( s_0 \exp\left((r - \sigma^2) + \sigma \sqrt{T} G\right) - k \right)_+
+\]
