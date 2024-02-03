@@ -6,4 +6,4 @@ $$
 S_t= S_0e^{(r - \frac{\sigma^2}{2})t + \sigma W_t}
 $$ 
 
-with $$(W_t)_{t \geq 0 } $$ a standard brownien motion.
+with <span class="tex2jax">$(W_t)_{t \geq 0 }$</span> a standard brownien motion.
