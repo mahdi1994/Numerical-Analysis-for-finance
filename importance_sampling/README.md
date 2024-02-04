@@ -4,7 +4,7 @@ $$
 \tilde{S}_t= S_0e^{(r - \frac{\sigma^2}{2})t + \sigma \tilde{W}_t}
 $$
 
-where <span class="tex2jax">$(\tilde{W}_t)_{t\geq 0}$</span> is a standard Brownian motion independent of <span class="tex2jax">$(W_t)_{t\geq0}$</span>. In what follows, we set
+where <span class="tex2jax">$({W}_t)_{t\geq 0}$</span> is a standard Brownian motion independent of <span class="tex2jax">$(W_t)_{t\geq0}$</span>. In what follows, we set
 
 <span class="tex2jax">$W_T = \sqrt{T}G$$ and $$\tilde{W}_T=\sqrt{T}\tilde{G}$</span>
 
