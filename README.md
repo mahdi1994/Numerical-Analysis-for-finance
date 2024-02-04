@@ -7,3 +7,5 @@ $$
 $$ 
 
 with <span class="tex2jax">$(W_t)_{t \geq 0 }$</span> a standard brownien motion.
+
+-  Please check the PDF file on each folder for more details.
